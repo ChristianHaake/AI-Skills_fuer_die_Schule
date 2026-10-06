@@ -104,6 +104,13 @@ Die Sammlung ist **kuratiert**, keine vollständige Marktübersicht und kein obj
 - **Lizenz:** AGPL-3.0-or-later
 - **Quelle:** [lbs-50.de](https://lbs-50.de/kompo7/)
 
+### [LernWerkstatt](https://github.com/maltedreyer-5/lernwerkstatt)
+
+- **Zweck:** Generiert aus Vorwissen und Lernziel selbstständig eine einzelne, offline funktionierende HTML-Lerneinheit mit Fließtext, Diagrammen, Simulatoren, Übungen, Glossar und Abschlusstest. Der Umfang wird per Gap-Analyse hergeleitet (Behandlungsklassen V/K/D/R), nicht manuell festgelegt. Deterministische Validierung repariert fehlerhafte Blöcke automatisch oder ersetzt sie durch eine Text-Beschreibung.
+- **Warum hier:** Einziges Open-Source-Werkzeug, das den didaktischen Anspruch der „Learning Artifacts Builder"-Skills (lab-o5, lab-f5) in eine reproduzierbare Pipeline mit formaler Block-Validierung übersetzt. Läuft mit jedem OpenAI-kompatiblen Endpoint (lokal vLLM/TGI oder gehostet) und ist damit datenschutzfreundlich auf eigener Infrastruktur einsetzbar. Keine Accounts, keine Cloud-Pflicht, die generierte HTML-Datei funktioniert offline.
+- **Lizenz:** MIT
+- **Quelle:** [github.com/maltedreyer-5/lernwerkstatt](https://github.com/maltedreyer-5/lernwerkstatt)
+
 ---
 
 ## OER-Fundgruben
