@@ -122,6 +122,13 @@ Die Sammlung ist **kuratiert**, keine vollständige Marktübersicht und kein obj
 - **Lizenz:** Mischung (CC BY-SA 4.0, CC BY-NC-SA 4.0, AGPL-3.0-or-later)
 - **Quelle:** [3ducation.org](https://3ducation.org)
 
+### [Prompt-Bibliothek des Deutschen Schulportals](https://campus.deutsches-schulportal.de/promptbibliothek)
+
+- **Zweck:** 22 praxisnahe Prompts für Schulentwicklung (Organisations-, Personal- und Unterrichtsentwicklung) entlang von vier Entwicklungsphasen inkl. 7-Bausteine-Prompt-Blaupause.
+- **Warum hier:** Von Robert Bosch Stiftung & Lernhacks GmbH redaktionell kuratiert und mit Schulleitungen erprobt; schließt die Lücke zur institutionellen Schulentwicklung und schulischen KI-Strategie (kostenlose Registrierung für Volltexte erforderlich).
+- **Lizenz:** Kostenfreies Angebot (Robert Bosch Stiftung / Lernhacks GmbH; Registrierung für Volltexte)
+- **Quelle:** [campus.deutsches-schulportal.de/promptbibliothek](https://campus.deutsches-schulportal.de/promptbibliothek)
+
 ---
 
 ## Lern- und Reflexionshilfen
