@@ -104,6 +104,13 @@ Die Sammlung ist **kuratiert**, keine vollständige Marktübersicht und kein obj
 - **Lizenz:** AGPL-3.0-or-later
 - **Quelle:** [lbs-50.de](https://lbs-50.de/kompo7/)
 
+### [Erwartungshorizont-Studio](https://github.com/simonhartmannedu/Erwartungshorizont-Studio)
+
+- **Zweck:** Web-App zur Erstellung von Erwartungshorizonten, Notenschlüsseln und zur rechtssicheren Klausurkorrektur inkl. Export von Bewertungsbögen (DOCX/ODS/PDF).
+- **Warum here:** Strikt **local-first** im Browser (kein Cloud-Zwang, keine Schülerspeicherungen auf fremden Servern), clientseitig verschlüsselte Sicherungen, AGPL-3.0. Löst akutes Praxisproblem bei Leistungsbewertung.
+- **Lizenz:** AGPL-3.0-only
+- **Quelle:** [GitHub: simonhartmannedu/Erwartungshorizont-Studio](https://github.com/simonhartmannedu/Erwartungshorizont-Studio) · [Demo](https://erwartungshorizont.cc/demo/)
+
 ---
 
 ## OER-Fundgruben
